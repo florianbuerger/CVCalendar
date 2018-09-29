@@ -12,6 +12,6 @@ s.ios.deployment_target = '8.0'
 s.source       = { :git => 'https://github.com/CVCalendar/CVCalendar.git', :tag => s.version }
 s.source_files  = 'CVCalendar/*.swift'
 s.requires_arc = true
-s.swift_version = '4.0'
+s.swift_version = '4.2'
 
 end
